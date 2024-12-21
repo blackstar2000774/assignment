@@ -16,9 +16,6 @@ int main()
     // Display the results
     printf("Sum: %d\n", sum);
     printf("Product: %d\n", product);
-        // Calculate subtraction
-    int difference = num1 - num2;
-    printf("Difference: %d\n", difference);
 
     return 0;
 }
